@@ -1,0 +1,5 @@
+1) Para os pacotes TCP e UDP, o limite de bytes a serem enviados é de 64 KB.
+
+2) Dividindo-se o seu conteúdo em vários fragmentos menores e enviando eles para o destinatário.
+
+3) Caso uma das partes do arquivo seja perdida, o protocolo TCP enviará novamente a parte perdida para que o arquivo seja entregue completo. Já no protocolo UDP, caso partes sejam perdidas, o arquivo é entregue sem as partes perdidas.
