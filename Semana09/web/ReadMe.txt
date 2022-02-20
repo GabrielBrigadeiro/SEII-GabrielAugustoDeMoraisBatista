@@ -1,0 +1,1 @@
+O ambiente virtual foi colocado em um arquivo zipado para maior facilidade de subir para o github.
